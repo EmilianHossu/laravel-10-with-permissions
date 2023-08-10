@@ -17,8 +17,13 @@
 ## Thanks
 
 https://github.com/laravel/laravel
+
 https://github.com/laravel/breeze
+
 https://github.com/laravel/sail
+
 https://github.com/spatie/laravel-permission
+
 https://github.com/barryvdh/laravel-ide-helper
+
 https://github.com/tailwindlabs/tailwindcss
